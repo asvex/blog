@@ -1,0 +1,5 @@
+sidebar:
+  menu:
+    post: '[btn.blog](/)'
+    notes: '[笔记](/notes/)'
+    about: '[更多](/about/)'
