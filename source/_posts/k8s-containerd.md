@@ -1,6 +1,6 @@
 ---
 title: 二进制高可用安装
-cover: https://acg.toubiec.cn/random.php
+cover: http://img.xjh.me/random_img.php?type=bg&ctype=nature&return=302
 tags: kubernetes
 ---
 
